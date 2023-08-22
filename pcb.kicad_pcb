@@ -386,6 +386,12 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c12d49bc-67de-401a-8ffd-21441a676e1c))
   (gr_line (start 58.42 79.756) (end 58.42 70.612)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f3d86a39-07cc-4a30-8779-c80f8faf3e43))
+  (gr_text "IN-1.8_5.5V\nOUT-3.3v\n" (at 64.008 75.184 90) (layer "B.SilkS") (tstamp 054aac81-4735-4468-a12e-c57d21ecaf49)
+    (effects (font (size 0.8 0.8) (thickness 0.2) bold) (justify bottom mirror))
+  )
+  (gr_text "1.8v<IN<2.5v-40mA\n2.5v<IN<5.5v-150mA" (at 67.056 75.184 90) (layer "B.SilkS") (tstamp d7b399c3-9f70-458e-941a-010ded17cd63)
+    (effects (font (size 0.5 0.5) (thickness 0.125)) (justify bottom mirror))
+  )
 
   (segment (start 67.043 72.631) (end 63.246 72.631) (width 0.2) (layer "F.Cu") (net 1) (tstamp 09e86c69-c844-4b7c-bb80-bfba8ebdfcce))
   (segment (start 67.455 74.531) (end 67.564 74.422) (width 0.2) (layer "F.Cu") (net 1) (tstamp 3cd9735b-a2ed-41c7-873d-e3a9229ab834))
