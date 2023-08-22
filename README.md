@@ -1,4 +1,4 @@
-# Ultra tiny 3.3V or 2.5V Step-Up/Step-Down Charge Pump DC/DC Converter fot IOT based on LTC3240
+# Ultra tiny 3.3V or 2.5V Step-Up/Step-Down Charge Pump DC/DC Converter for IOT based on LTC3240
 
 ### This project exist for use IOT device with Alcaline/LIPO battery
 
